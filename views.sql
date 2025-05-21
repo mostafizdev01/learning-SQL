@@ -1,0 +1,1 @@
+SELECT department_name, avg(salary) FROM employeers GROUP BY department_name;
